@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffa7a7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+/* font size can also be added to #green  */
+
+#blue {
+    color: blue;
+    font-size: 36px;
+}
+
+#green {
+    background-color: #90ee90;
+    font-weight: bold;
+}
