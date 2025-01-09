@@ -20,9 +20,11 @@ img {
   gap: 52px;
 }
 
-.info {
-  max-width: 200px;
+.items {
+  width: 200px;
+  text-wrap: wrap;
 }
+
 /* do not edit this footer */
 .footer {
   position: fixed;
